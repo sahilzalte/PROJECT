@@ -39,4 +39,3 @@ This repository contains beginner-level projects in **Python**, **Java**, and **
 ### Clone the Repository
 ```bash
 git clone https://github.com/<sahilzalte>/PROJECT.git
-cd multi-language-projects
